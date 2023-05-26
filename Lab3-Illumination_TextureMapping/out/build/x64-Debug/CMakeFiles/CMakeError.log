@@ -1,0 +1,54 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/lilyw/OneDrive - University of Canterbury/Uni/23S1/COSC363/Labs/Lab_3/lab3/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-n2017d
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_16878 && [1/2] Building C object CMakeFiles\cmTC_16878.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_16878.exe
+FAILED: cmTC_16878.exe 
+cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_16878.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~1\MICROS~4\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_16878.dir\CMakeCCompilerABI.c.obj  /out:cmTC_16878.exe /implib:cmTC_16878.lib /pdb:cmTC_16878.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_16878.dir/manifest.res CMakeFiles\cmTC_16878.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specified
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/lilyw/OneDrive - University of Canterbury/Uni/23S1/COSC363/Labs/Lab_3/lab3/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-bq5bme
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_6f5ba && [1/2] Building C object CMakeFiles\cmTC_6f5ba.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_6f5ba.exe
+FAILED: cmTC_6f5ba.exe 
+cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_6f5ba.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~1\MICROS~4\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_6f5ba.dir\testCCompiler.c.obj  /out:cmTC_6f5ba.exe /implib:cmTC_6f5ba.lib /pdb:cmTC_6f5ba.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_6f5ba.dir/manifest.res CMakeFiles\cmTC_6f5ba.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specified
+ninja: build stopped: subcommand failed.
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/lilyw/OneDrive - University of Canterbury/Uni/23S1/COSC363/Labs/Lab_3/lab3/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-4la8o3
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a988c && [1/2] Building C object CMakeFiles\cmTC_a988c.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_a988c.exe
+FAILED: cmTC_a988c.exe 
+cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a988c.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~1\MICROS~4\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_a988c.dir\CMakeCCompilerABI.c.obj  /out:cmTC_a988c.exe /implib:cmTC_a988c.lib /pdb:cmTC_a988c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_a988c.dir/manifest.res CMakeFiles\cmTC_a988c.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specified
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/lilyw/OneDrive - University of Canterbury/Uni/23S1/COSC363/Labs/Lab_3/lab3/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-b56t16
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_3b41d && [1/2] Building C object CMakeFiles\cmTC_3b41d.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_3b41d.exe
+FAILED: cmTC_3b41d.exe 
+cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3b41d.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~1\MICROS~4\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_3b41d.dir\testCCompiler.c.obj  /out:cmTC_3b41d.exe /implib:cmTC_3b41d.lib /pdb:cmTC_3b41d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_3b41d.dir/manifest.res CMakeFiles\cmTC_3b41d.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specified
+ninja: build stopped: subcommand failed.
+
+
+

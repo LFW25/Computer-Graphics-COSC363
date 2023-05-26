@@ -1,0 +1,12 @@
+﻿  Spaceship.cpp
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(21,112): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(69,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(139,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(140,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(204,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(208,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(210,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(215,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(235,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(241,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  lab3.vcxproj -> C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\Debug\lab3.exe

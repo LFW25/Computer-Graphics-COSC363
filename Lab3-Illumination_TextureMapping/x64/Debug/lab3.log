@@ -1,0 +1,38 @@
+﻿  Spaceship.cpp
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(19,51): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(19,51): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(20,41): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(20,41): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(20,57): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(20,57): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(20,83): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(20,83): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(20,88): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(20,88): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(20,96): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(20,96): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(20,101): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(20,101): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(68,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(138,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(139,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(147,20): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(148,20): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(200,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(204,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(206,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(211,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(231,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\I_Spaceship\Spaceship.cpp(237,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Spaceship.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+Spaceship.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+Spaceship.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+Spaceship.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+Spaceship.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl special(int,int,int)" (?special@@YAXHHH@Z)
+Spaceship.obj : error LNK2019: unresolved external symbol __imp_glutSpecialFunc referenced in function main
+Spaceship.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+Spaceship.obj : error LNK2019: unresolved external symbol __imp_glutSolidSphere referenced in function "void __cdecl draw_ss_alien(void)" (?draw_ss_alien@@YAXXZ)
+Spaceship.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+Spaceship.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\OpenGL\lib\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab_3\lab3\x64\Debug\lab3.exe : fatal error LNK1120: 10 unresolved externals

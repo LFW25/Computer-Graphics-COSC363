@@ -1,0 +1,5 @@
+﻿  RayTracer.cpp
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab6\Lab6\SceneObject.h(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab6\Lab6\SceneObject.h(27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab6\Lab6\SceneObject.h(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab6.vcxproj -> C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab6\Lab6\Debug\Lab6.exe

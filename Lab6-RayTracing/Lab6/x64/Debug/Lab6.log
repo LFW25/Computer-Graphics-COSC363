@@ -1,0 +1,15 @@
+﻿  RayTracer.cpp
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab6\Lab6\SceneObject.h(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab6\Lab6\SceneObject.h(27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab6\Lab6\SceneObject.h(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+RayTracer.obj : error LNK2019: unresolved external symbol "public: struct glm::vec<3,float,0> __cdecl SceneObject::getColor(void)" (?getColor@SceneObject@@QEAA?AU?$vec@$02M$0A@@glm@@XZ) referenced in function "struct glm::vec<3,float,0> __cdecl trace(class Ray,int)" (?trace@@YA?AU?$vec@$02M$0A@@glm@@VRay@@H@Z)
+RayTracer.obj : error LNK2019: unresolved external symbol "public: void __cdecl Ray::closestPt(class std::vector<class SceneObject *,class std::allocator<class SceneObject *> > &)" (?closestPt@Ray@@QEAAXAEAV?$vector@PEAVSceneObject@@V?$allocator@PEAVSceneObject@@@std@@@std@@@Z) referenced in function "struct glm::vec<3,float,0> __cdecl trace(class Ray,int)" (?trace@@YA?AU?$vec@$02M$0A@@glm@@VRay@@H@Z)
+RayTracer.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+RayTracer.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+RayTracer.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+RayTracer.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+RayTracer.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+RayTracer.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+RayTracer.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\OpenGL\lib\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab6\Lab6\x64\Debug\Lab6.exe : fatal error LNK1120: 9 unresolved externals

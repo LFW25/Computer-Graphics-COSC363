@@ -1,0 +1,15 @@
+﻿  TeapotPatches.cpp
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab10\II_TeapotPatches\TeapotPatches.cpp(21,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab10\II_TeapotPatches\TeapotPatches.cpp(132,21): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab10\II_TeapotPatches\TeapotPatches.cpp(132,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab10\II_TeapotPatches\TeapotPatches.cpp(132,28): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab10\II_TeapotPatches\TeapotPatches.cpp(132,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab10\II_TeapotPatches\TeapotPatches.cpp(132,35): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab10\II_TeapotPatches\TeapotPatches.cpp(132,35): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab10\II_TeapotPatches\TeapotPatches.cpp(132,42): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab10\II_TeapotPatches\TeapotPatches.cpp(132,42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab10\II_TeapotPatches\TeapotPatches.cpp(133,21): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab10\II_TeapotPatches\TeapotPatches.cpp(133,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab10\II_TeapotPatches\TeapotPatches.cpp(133,28): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab10\II_TeapotPatches\TeapotPatches.cpp(133,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Lab10.vcxproj -> C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab10\Debug\Lab10.exe

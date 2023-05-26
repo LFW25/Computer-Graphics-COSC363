@@ -1,0 +1,3 @@
+﻿  Cube.cpp
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab8\Cube.cpp(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab8.vcxproj -> C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab8\Debug\Lab8.exe

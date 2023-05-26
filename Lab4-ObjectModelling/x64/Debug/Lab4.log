@@ -1,0 +1,25 @@
+﻿  Walls.cpp
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\I_Walls\Walls.cpp(16,95): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\I_Walls\Walls.cpp(17,94): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\I_Walls\Walls.cpp(52,39): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\I_Walls\Walls.cpp(53,45): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\I_Walls\Walls.cpp(56,15): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\I_Walls\Walls.cpp(57,15): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\I_Walls\Walls.cpp(61,15): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\I_Walls\Walls.cpp(62,15): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\I_Walls\Walls.cpp(160,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\I_Walls\Walls.cpp(162,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\I_Walls\Walls.cpp(164,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\I_Walls\Walls.cpp(166,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\I_Walls\Walls.cpp(174,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Walls.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+Walls.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+Walls.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+Walls.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+Walls.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl special(int,int,int)" (?special@@YAXHHH@Z)
+Walls.obj : error LNK2019: unresolved external symbol __imp_glutSpecialFunc referenced in function main
+Walls.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+Walls.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+Walls.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\OpenGL\lib\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\x64\Debug\Lab4.exe : fatal error LNK1120: 9 unresolved externals

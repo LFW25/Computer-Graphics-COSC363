@@ -1,0 +1,15 @@
+﻿  Vase.cpp
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\II_Vase\Vase.cpp(19,68): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\II_Vase\Vase.cpp(25,160): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\II_Vase\Vase.cpp(29,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\II_Vase\Vase.cpp(51,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\II_Vase\Vase.cpp(56,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\II_Vase\Vase.cpp(57,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\II_Vase\Vase.cpp(58,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\II_Vase\Vase.cpp(59,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\II_Vase\Vase.cpp(67,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\II_Vase\Vase.cpp(92,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\II_Vase\Vase.cpp(93,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\II_Vase\Vase.cpp(150,57): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\II_Vase\Vase.cpp(155,61): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+  Lab4.vcxproj -> C:\Users\lilyw\OneDrive - University of Canterbury\Uni\23S1\COSC363\Labs\Lab4\Debug\Lab4.exe

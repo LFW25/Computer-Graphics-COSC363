@@ -1,0 +1,4 @@
+/csse/users/lfw25/Uni/COSC363/build-Lab01_files-Desktop-Debug/CMakeFiles/Teapot.out.dir
+/csse/users/lfw25/Uni/COSC363/build-Lab01_files-Desktop-Debug/CMakeFiles/Model3d.out.dir
+/csse/users/lfw25/Uni/COSC363/build-Lab01_files-Desktop-Debug/CMakeFiles/edit_cache.dir
+/csse/users/lfw25/Uni/COSC363/build-Lab01_files-Desktop-Debug/CMakeFiles/rebuild_cache.dir

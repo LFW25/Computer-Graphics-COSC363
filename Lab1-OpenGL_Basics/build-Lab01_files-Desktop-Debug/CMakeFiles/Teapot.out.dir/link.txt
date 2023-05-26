@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/Teapot.out.dir/Teapot.cpp.o -o Teapot.out  -lGL -lGLU -lglut -lXi 

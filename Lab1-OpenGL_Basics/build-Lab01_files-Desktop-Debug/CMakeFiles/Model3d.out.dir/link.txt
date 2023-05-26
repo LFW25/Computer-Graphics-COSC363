@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/Model3d.out.dir/Model3D.cpp.o -o Model3d.out  -lGL -lGLU -lglut -lXi 
